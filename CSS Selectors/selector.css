@@ -1,0 +1,56 @@
+/**{
+    color: red;
+}*/
+h1,h2{
+    font-size: 30px;
+
+}
+body{
+    background-color: #a8f372;
+}
+#signup{
+    background-color: rgb(20, 181, 90);
+    color: aliceblue;
+}
+.tag{
+    color: #fff;
+    font-size: larger;
+    background-color: cyan;
+}
+.wow a{
+    color: red;
+    text-decoration: none;
+}
+li a{
+    color: purple;
+}
+input[type="password"] {
+    color: #a8f372;
+}
+
+.wow button:hover{
+    background-color: red;
+    color: #fff;
+}
+
+.wow a:hover{
+    text-decoration: underline;
+}
+
+.wow button:active{
+    background-color: rgb(27, 152, 27);
+}
+
+h2::first-letter{
+    font-size: larger;
+    color: white;
+}
+
+.essay::first-line{
+    text-decoration: underline;
+    color: blueviolet;
+}
+
+.essay::selection{
+    background-color: aquamarine;
+}

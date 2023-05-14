@@ -1,0 +1,82 @@
+div{
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+   transition: background-color 3s ease-in, border-radius 3s;
+}
+
+div:hover{
+    background-color: aqua;
+    border-radius: 50%;
+}
+
+section div{
+    background-color: rgb(142, 61, 21);
+    width: 50px;
+    height: 50px; 
+    transition: 3s ; 
+    margin-top: 100px; 
+}
+
+section:hover div{
+    margin-left: 500px;
+   background-color: rgb(26, 5, 117);
+   transform-origin: bottom right;
+   transform: rotate(180deg);
+}
+ 
+h2{
+    width: 500px;
+    height: 100px;
+    background-color: aquamarine;
+    border: 3px solid black;
+    text-align: center;
+    padding-top: 50px;
+    margin: 20px auto;
+    display: block;
+}
+
+h2:nth-of-type(1){
+    transform-origin: bottom right;
+    transform: rotate(45deg);
+}
+body{
+    border: 10px solid black;
+    margin: 0px;
+    background-color: black;
+}
+
+h2:nth-of-type(2){
+    transform: scale(2,1);
+}
+
+h2:nth-of-type(3){
+    transform: translate(100px,100px);
+}
+
+h2:nth-of-type(5){
+    transform: skew(10deg, 10deg);
+}
+
+h2:nth-of-type(6){
+    transform: rotate(180deg);
+}
+
+button{
+    background: none;
+    color: orange;
+    border: 3px solid orange;
+    width: 100px;
+    height: 50px;
+    transition: all 0.25s;
+    margin-left: 700px;
+    margin-bottom: 100px;
+}
+
+button:hover{
+    color: white;
+    border-color: yellow;
+    transform: translateY(-0.25em);
+    box-shadow: 0 0.5em 0.5em -0.4em;
+    cursor: pointer;
+}

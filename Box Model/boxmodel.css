@@ -1,0 +1,93 @@
+body{
+    background-image: url(https://cdn.wallpapersafari.com/63/16/6GDq9W.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div{
+    width: 330px;
+    height: 280px;
+    background-color: aquamarine;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#one{
+    border-width: 7px;
+    border-color: #fff;
+    border-style: dashed;
+    background-color: rgb(151, 93, 23);
+    float: left;
+    padding: 10px 10px;
+    margin-right: 3px;
+}
+
+#two{
+    border-width: 7px;
+    border-style: dashed;
+    border-color: rgb(181, 76, 19);
+    float: left;
+    padding: 10px 10px;
+    margin-right: 3px;
+}
+
+#three{
+    float: right;
+    border-width: 7px;
+    border-style: dashed;
+    border-color: black;
+    background-color: beige;
+    padding: 10px 10px;
+    margin-left: 3px;
+}
+
+#four{
+    float: right;
+    border-width: 7px;
+    border-style: dashed;
+    background-color:rgb(213, 64, 186);
+    border-color: black;
+    padding: 10px 10px;
+    margin-left: 5px;
+}
+h1{
+    background-color: black;
+    width: 300px;
+    color: #fff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+button{
+    border-radius: 20%;
+    background-color: red;
+    color: #fff;
+    border-width: 5px;
+    border-color: #fff;
+    padding: 10px;
+
+}
+
+ul li{
+    color: #fff;
+}
+
+h2{
+    float: right;
+    font-size: 50px;
+    font-weight: 900;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    box-shadow: #fff 10px;
+
+}
+
+h3{
+    float: left;
+    top: 0%;
+    position: absolute;
+    color: #fff;
+    position: fixed;
+}
+
+a{
+    color: #fff;
+    text-decoration: none;
+}
