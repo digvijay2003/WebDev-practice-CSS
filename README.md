@@ -1,9 +1,9 @@
 # WebDev-practice-CSS
 
--This repo includes CSS where I have added **pricepannelcode** as mini project.
--You can also download notes for this section.
--If want to learn more CSS read docs and go through https://developer.mozilla.org/en-US/docs/Web/CSS.
--Bootstrap latest version : https://getbootstrap.com/docs/5.2/getting-started/introduction/.
+- This repo includes CSS where I have added **pricepannelcode** as mini project.
+- You can also download notes for this section.
+- If want to learn more CSS read docs and go through https://developer.mozilla.org/en-US/docs/Web/CSS.
+- Bootstrap latest version : https://getbootstrap.com/docs/5.2/getting-started/introduction/.
 
 
 ## Features
